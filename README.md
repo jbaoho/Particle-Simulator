@@ -1,1 +1,2 @@
 # Particle-Simulator
+This repository is a simple Java particle simulator. The program implements a max-heap priority queue to store collision events between two particles and a particle with a wall. The purpose of the project is to practice implmenting heaps, subclasses, and event-driven programming simulations. Collisions are represented using subclasses from an Event class and the ParticleSimulator simulate method is responsible for all of the event-driven functionality.
